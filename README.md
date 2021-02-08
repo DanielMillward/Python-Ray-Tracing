@@ -1,1 +1,2 @@
-# Python-Ray-Tracing
+# RayTracing
+ Ray Tracing in Python
