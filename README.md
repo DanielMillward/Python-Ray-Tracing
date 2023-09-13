@@ -1,4 +1,6 @@
 # RayTracing
+This is a python implementation of the code found in [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html). This was written before any formal study of programming on my part. Hopefully that excuses the (very) messy code.
+
  Ray Tracing in Python
  helloray.py is the main function. 
  Current features:
